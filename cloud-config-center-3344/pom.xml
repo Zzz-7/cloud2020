@@ -19,11 +19,11 @@
         </dependency>-->
 
         <!-- 避免Config的Git插件报错：org/eclipse/jgit/api/TransportConfigCallback -->
-        <dependency>
+        <!--<dependency>
             <groupId>org.eclipse.jgit</groupId>
             <artifactId>org.eclipse.jgit</artifactId>
             <version>4.10.0.201712302008-r</version>
-        </dependency>
+        </dependency>-->
 
         <!--        Config服务端-->
         <dependency>
